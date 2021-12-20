@@ -14,6 +14,7 @@
 // À‘ÌéŒ¾
 int a;
 int b;
+int c;
 
 
 
@@ -29,7 +30,7 @@ int b;
 int APIENTRY WinMain( HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow )
 {
 
-
+	float d;
 
 
 
