@@ -1,0 +1,16 @@
+このサンプルゲームで使用しているキャラクターは、
+素材配布サイト管理人のワト様が作成されたものです。
+専門学校など教育機関での利用はＯＫとの事ですので
+使用させていただいています。このサンプルゲームの
+グラフィックを改変して使用をしないで下さい。
+素材として必要であれば、下記すきまの素材からDLを
+お願いします。
+
+(C)ワト/すきまの素材
+■　すきまの素材　http://wato5576.sukimakaze.com/
+
+(C)REFMAP/First Seed Material
+■　First Seed Material　http://www.tekepon.net/fsm
+
+(C)MACK/looseleaf
+■　Looseleaf　http://www.mogunet.net/~mack/
